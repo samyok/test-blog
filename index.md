@@ -8,4 +8,5 @@
 layout: home
 ---
 
-testing
+# hi im samyok
+hi
